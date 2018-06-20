@@ -1,0 +1,11 @@
+package org.ddd.section2.example2_41;
+
+//文件扩展名称改为backup是因为不在bin目录中生成.class文件，
+//因为如果在bin目录中有Sample.class文件，FileSystemClassLoader就会用系统类加载器
+public class Sample {
+	private Sample instance;
+	
+	public void setSample(Object newInstance) {
+		this.instance = (Sample) newInstance;
+	}
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+  <bean id="g" class="com.test.dom4j.read.Chocolate">
+  </bean> 
+  <bean id="boy" class="com.test.dom4j.read.Boy">
+  		<property name="gift" bean="g"/>
+  </bean> 
+</beans>

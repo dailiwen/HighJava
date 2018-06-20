@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book> 
+	<title>计算机学院必修课</title> 
+	<page id="1"> 
+		<title>基础篇</title> 
+		<name>大学计算机基础</name> 
+	</page> 
+	<page id="2"> 
+		<title>进阶篇(1)</title> 
+		<name>C语言</name> 
+	</page> 
+	<page id="3"> 
+		<title>进阶篇(2)</title>
+		<name>java编程</name> 
+	</page> 
+	<page id="4"> 
+		<title>高级篇</title> 
+		<name>软件体系结构</name> 
+	</page> 
+</book>

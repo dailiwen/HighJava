@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align : center;
+}
+
+#all {
+    position: absolute; 
+    top: 0px;  
+    right: 0px;  
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    display:none;
+}
+
+#popUp {
+    position: absolute; 
+    top: 175px;  
+    left: 650px;  
+    width: 700px;
+    height: 430px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+#inforTitle {
+    height: 60px;
+    width: 100%;
+    background-color: #767676;
+    border-radius: 5px 5px 0px 0px;
+}
+
+#inforTitle span {
+    color: #ffffff;
+    float: left;
+    margin-top: 18px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#imgCancel {
+    height: 14px;
+    width: 14px;
+    color: #ffffff;
+    float: right;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+#inforInput {
+    height: 290px;
+    width: 100%;
+    margin:0 auto;
+    text-align: center;
+}
+
+#inforInput input {
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+#inforBottom {
+    float: right;
+    margin-right: 20px;
+}
+
+#define {
+    height: 35px;
+    width: 55px;
+    border: 0px;
+    background-color: #7ba9d0;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-right: 10px;
+    display:none;
+}
+
+#updatedefine {
+    height: 35px;
+    width: 55px;
+    border: 0px;
+    background-color: #7ba9d0;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-right: 10px;
+    display:none;
+}
+
+#cancel {
+    height: 35px;
+    width: 55px;
+    border: 0px;
+    background-color: #ffffff;
+    border:1px solid #dbdbdb;
+    border-radius: 5px;
+}

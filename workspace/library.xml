@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GBK"?>
+<books>
+  <book BNK="156516516516516">
+        <name addr="address">重庆理工大学</name>
+        <price>60.00</price>
+  </book>
+</books>

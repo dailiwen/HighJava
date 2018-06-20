@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <varelement var="jar://$USER_HOME$/Desktop/高级java/mysql-connector-java-8.0.11.jar!/" value="USER_HOME/Desktop/高级java/mysql-connector-java-8.0.11.jar" />
+    <src_description expected_position="0" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="9" jdkType="JavaSDK" />
+    <orderEntry type="module-library" exported="">
+      <library name="mysql-connector-java-8.0.11.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/高级java/mysql-connector-java-8.0.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
